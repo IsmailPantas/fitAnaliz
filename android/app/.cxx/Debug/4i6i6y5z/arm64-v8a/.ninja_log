@@ -1,0 +1,6 @@
+# ninja log v5
+1	27	0	P:/ReactNative/fitAnaliz/android/app/.cxx/Debug/4i6i6y5z/arm64-v8a/CMakeFiles/cmake.verify_globs	cb9c8f517e2f91d5
+1	4732	7645542906889049	CMakeFiles/appmodules.dir/P_/ReactNative/fitAnaliz/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	c3278ec016474f8c
+9	5124	7645542910849804	CMakeFiles/appmodules.dir/OnLoad.cpp.o	8af3fcbe74951d80
+5125	5315	7645542912829715	P:/ReactNative/fitAnaliz/android/app/build/intermediates/cxx/Debug/4i6i6y5z/obj/arm64-v8a/libappmodules.so	8979c72f96368dd0
+2	50	0	P:/ReactNative/fitAnaliz/android/app/.cxx/Debug/4i6i6y5z/arm64-v8a/CMakeFiles/cmake.verify_globs	cb9c8f517e2f91d5
