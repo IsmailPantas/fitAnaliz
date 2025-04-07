@@ -137,3 +137,10 @@ android/app/build/
 
 # C++ derleme dosyaları
 android/app/build/intermediates/cxx/
+
+
+
+/android/app/build/
+/android/app/build/outputs/
+/android/app/build/intermediates/
+
